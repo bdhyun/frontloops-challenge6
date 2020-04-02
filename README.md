@@ -9,7 +9,7 @@ The challenge was to recreate the webpage as presented in the mp4 file provided 
 
 ### Demo
 
-![Front Loops Challenge 6 Demo]()
+![Front Loops Challenge 6 Demo](https://media.giphy.com/media/fYl9L9erxn6VloLRRT/giphy.gif)
 
 ### Screenshot
 
